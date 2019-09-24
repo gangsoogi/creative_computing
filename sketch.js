@@ -1,6 +1,6 @@
 let gnimg;
 function preload() {
-  gnimg = loadImage('creative_computing/gnimg.JPG');
+  gnimg = loadImage('gnimg.JPG');
 }
 
 function setup() {
